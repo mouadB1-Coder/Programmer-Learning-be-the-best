@@ -84,7 +84,7 @@ a:hover{
   transition: .9s;
 }
 #colour{
-  display: inline;
+  display: flex;
 }
 #colour #reed{
   display: inline;
