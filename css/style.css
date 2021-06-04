@@ -75,24 +75,3 @@ a:hover{
     width: 25%;
     transition: .9s;
 }
-#colour #greeen:hover{
- color: green;
- transition: .9s;
-}
-#colour #reed:hover{
-  color:red;
-  transition: .9s;
-}
-#colour{
-  display: flex;
-  text-align: center(left);
-}
-#colour #reed{
-  display: flex;
-  text-align: center(left);
-}
-#colour #green{
-  display: flex;
-  text-align: center(left);
-}
-/* plz */
