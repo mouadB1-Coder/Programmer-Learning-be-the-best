@@ -59,7 +59,7 @@ a:hover{
 .courses .box1{margin-top: 30px;}
 .courses .box2{margin-top: 30px;}
 .intro .contener .box1 {float: left; width: 40%;}
-.intro .contener .imagex{float: right; width: 50%;}
+.intro .contener .imagex{float: right; width: 50%; padding-bottom:5px;}
 .courses .contener .box1{float: right; width: 40%;}
 .courses .contener .imagex{float: left; width: 50%;}
 .courses .contener .box2 .b1{float: left; width: 20%; text-align: center; margin-right: 10px; margin-left: 10px;}
@@ -70,8 +70,18 @@ a:hover{
     color: white;
     padding-bottom: 10px;
     font-size: 30px;
+		width:100%
 }
 .box2 a:hover{
     width: 25%;
     transition: .9s;
 }
+.lang{
+  width: 15%;
+  display: block;
+  transition: .9s;
+  padding-bottom: 5px;
+  text-decoration: none;
+}
+.courses2 .contener .imagex2{float: left; width: 50%; padding-top:5px; height:250px ;}
+.courses2 .contener .box1{float: right; width: 40%; padding-top:5px;}
