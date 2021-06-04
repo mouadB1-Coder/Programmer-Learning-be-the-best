@@ -84,5 +84,12 @@ a:hover{
   transition: .9s;
 }
 #colour{
-  display: contents;
+  display: inline;
 }
+#colour #reed{
+  display: inline;
+}
+#colour #green{
+  display: inline;
+}
+/* plz */
