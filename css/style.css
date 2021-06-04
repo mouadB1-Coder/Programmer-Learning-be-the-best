@@ -83,3 +83,6 @@ a:hover{
   color:red;
   transition: .9s;
 }
+#colour{
+  display: inline;
+}
