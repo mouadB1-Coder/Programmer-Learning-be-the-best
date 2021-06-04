@@ -85,11 +85,14 @@ a:hover{
 }
 #colour{
   display: flex;
+  text-align: center;
 }
 #colour #reed{
-  display: inline;
+  display: flex;
+  text-align: center;
 }
 #colour #green{
-  display: inline;
+  display: flex;
+  text-align: center;
 }
 /* plz */
